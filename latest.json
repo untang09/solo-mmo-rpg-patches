@@ -1,8 +1,8 @@
 {
-  "version": "0.4.2",
-  "code": 42,
+  "version": "0.4.3",
+  "code": 43,
   "base_code": 41,
-  "notes": "Tap the big map to walk anywhere (with pathfinding). Walk animation fixed. Combo is slower and every hit is a different move, ending in a spinning finisher. Gear now has level requirements. Loot drops on the ground before flying to you. Bots are always online and only level while you play.",
+  "notes": "Warrior now wields two-handed greatswords (Training Greatsword given at job change). New Skills window (K): your path has passive skills only; bots use active skills. Bots now earn EXP only from real kills. Minimap stays north-up. Start a new character from the Character window (old save is archived).",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.2/patch_42_android.pck",
-      "sha256": "66be8fd3ff2c53ebefb78397d91f07e5321a9b4a561cf393b87a2bbafff9bdfb",
-      "size": 193796
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.3/patch_43_android.pck",
+      "sha256": "065a202d91f249ed334ee8e5a688ba7bd619143c5f12310307144efbd621ea9f",
+      "size": 255596
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.2/patch_42_windows.pck",
-      "sha256": "66be8fd3ff2c53ebefb78397d91f07e5321a9b4a561cf393b87a2bbafff9bdfb",
-      "size": 193796
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.3/patch_43_windows.pck",
+      "sha256": "065a202d91f249ed334ee8e5a688ba7bd619143c5f12310307144efbd621ea9f",
+      "size": 255596
     }
   }
 }
