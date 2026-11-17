@@ -1,8 +1,8 @@
 {
-  "version": "0.4.3",
-  "code": 43,
+  "version": "0.4.4",
+  "code": 44,
   "base_code": 41,
-  "notes": "Warrior now wields two-handed greatswords (Training Greatsword given at job change). New Skills window (K): your path has passive skills only; bots use active skills. Bots now earn EXP only from real kills. Minimap stays north-up. Start a new character from the Character window (old save is archived).",
+  "notes": "Posture fixed (no more leaning back when walking or attacking). New Codex (O): collect monsters, equipment and items for permanent bonuses. Skills now have icons and only your reached classes are shown. New Menu button: save, updates, auto-potion level and Start a new character. Auto-hunt hits the monster next to you, and nobody steals a monster someone else hit first (first hit takes the loot).",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.3/patch_43_android.pck",
-      "sha256": "065a202d91f249ed334ee8e5a688ba7bd619143c5f12310307144efbd621ea9f",
-      "size": 255596
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.4/patch_44_android.pck",
+      "sha256": "3a6313d655edae526a8a7e6e78a7644b30380edd916bd0c6d87327713c553906",
+      "size": 350196
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.3/patch_43_windows.pck",
-      "sha256": "065a202d91f249ed334ee8e5a688ba7bd619143c5f12310307144efbd621ea9f",
-      "size": 255596
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.4/patch_44_windows.pck",
+      "sha256": "3a6313d655edae526a8a7e6e78a7644b30380edd916bd0c6d87327713c553906",
+      "size": 350196
     }
   }
 }
