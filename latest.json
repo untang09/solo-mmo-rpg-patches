@@ -1,8 +1,8 @@
 {
-  "version": "0.4.4",
-  "code": 44,
+  "version": "0.5.0",
+  "code": 45,
   "base_code": 41,
-  "notes": "Posture fixed (no more leaning back when walking or attacking). New Codex (O): collect monsters, equipment and items for permanent bonuses. Skills now have icons and only your reached classes are shown. New Menu button: save, updates, auto-potion level and Start a new character. Auto-hunt hits the monster next to you, and nobody steals a monster someone else hit first (first hit takes the loot).",
+  "notes": "Auto-hunt no longer runs back to town: with low HP and no potions it rests in place until 80% HP. The Blacksmith is open: refine gear from +1 to +10 (risky past +4). New map Ashen Barrows (Lv 16-26) beyond Blackroot Forest, with skeletons, ghouls, hound packs and the world boss Bone Warlord - watch for the red circle!",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.4/patch_44_android.pck",
-      "sha256": "3a6313d655edae526a8a7e6e78a7644b30380edd916bd0c6d87327713c553906",
-      "size": 350196
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.0/patch_45_android.pck",
+      "sha256": "7fe718d04b4e1583bfa6e302f58179c32296a04e54e7b43cd0ea3a062c3eb380",
+      "size": 414532
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.4.4/patch_44_windows.pck",
-      "sha256": "3a6313d655edae526a8a7e6e78a7644b30380edd916bd0c6d87327713c553906",
-      "size": 350196
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.0/patch_45_windows.pck",
+      "sha256": "7fe718d04b4e1583bfa6e302f58179c32296a04e54e7b43cd0ea3a062c3eb380",
+      "size": 414532
     }
   }
 }
