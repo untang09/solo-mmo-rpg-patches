@@ -1,1 +1,19 @@
-{}
+{
+  "version": "0.4.1",
+  "code": 41,
+  "base_code": 41,
+  "notes": "First public build. Adds simulated players, ranking, chat, mobile controls and the in-game updater (future patches download inside the game; your save is kept).",
+  "app": {
+    "android": {
+      "code": 41,
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/app-v0.4.1/SoloMMO-0.4.1.apk",
+      "size": 26888010
+    },
+    "windows": {
+      "code": 41,
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/app-v0.4.1/SoloMMO-0.4.1.exe",
+      "size": 109402264
+    }
+  },
+  "patches": {}
+}
