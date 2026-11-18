@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "code": 49,
+  "version": "0.6.1",
+  "code": 50,
   "base_code": 41,
-  "notes": "Organic maps: irregular outlines, winding roads, ponds and rock ridges, oval hunting zones. The Bone Warlord now has its own walled arena and never leaves it. Auto-hunt stays inside the zone you turned it on in.",
+  "notes": "Elites now live in their own den at the far side of each zone: they only notice you inside it, never chase you out, and the pack never calls them in.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.0/patch_49_android.pck",
-      "sha256": "70c77d91406deb79b47bc288e47695c80e11a96522cdfdb61ae3b3dac98e9058",
-      "size": 446692
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.1/patch_50_android.pck",
+      "sha256": "c9aadd677e64fc2569d2cddc6b3234ba88c5ea9088653059814605ebf6f049f3",
+      "size": 446372
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.0/patch_49_windows.pck",
-      "sha256": "70c77d91406deb79b47bc288e47695c80e11a96522cdfdb61ae3b3dac98e9058",
-      "size": 446692
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.1/patch_50_windows.pck",
+      "sha256": "c9aadd677e64fc2569d2cddc6b3234ba88c5ea9088653059814605ebf6f049f3",
+      "size": 446372
     }
   }
 }
