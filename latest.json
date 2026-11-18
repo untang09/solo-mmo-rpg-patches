@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1",
-  "code": 46,
+  "version": "0.5.2",
+  "code": 47,
   "base_code": 41,
-  "notes": "Bots no longer get stuck on the town palisade (pathfinding). Auto-hunt target option in Menu: small monsters only (default) or elites & bosses too.",
+  "notes": "Dying no longer resets every bot to town: only you respawn, bots keep hunting. Bots already online appear in their hunting zones when you enter a map.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.1/patch_46_android.pck",
-      "sha256": "7651562064fd02ef5a75757b3583c477bed9879d2d9d5b50a309f0b7562ea21f",
-      "size": 419364
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.2/patch_47_android.pck",
+      "sha256": "41fde7c2ea50d017c110f5c188f2543b5283d98bfa5399d34928cc8b57232fdc",
+      "size": 420884
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.1/patch_46_windows.pck",
-      "sha256": "7651562064fd02ef5a75757b3583c477bed9879d2d9d5b50a309f0b7562ea21f",
-      "size": 419364
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.2/patch_47_windows.pck",
+      "sha256": "41fde7c2ea50d017c110f5c188f2543b5283d98bfa5399d34928cc8b57232fdc",
+      "size": 420884
     }
   }
 }
