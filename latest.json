@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
-  "code": 52,
+  "version": "0.6.4",
+  "code": 53,
   "base_code": 41,
-  "notes": "Storage NPC opens in town (150 slots, free). Bag holds 60 slots; when full, loot waits on the ground until there is room. The game restarts by itself after this patch installs.",
+  "notes": "DEF from equipment now clearly reduces the damage you take (see Stats). If your combo target dies mid-chain, the rest of the combo jumps to the next enemy nearby.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.3/patch_52_android.pck",
-      "sha256": "79cbceea122dcb42a44fdeaab5576cc6c1a0cd89876abfeecf070e43df4ffea7",
-      "size": 458856
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.4/patch_53_android.pck",
+      "sha256": "15716c3e46293160aa746d029614899d12a1f803bdc8f3ed95257cdb3e984ff3",
+      "size": 457000
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.3/patch_52_windows.pck",
-      "sha256": "79cbceea122dcb42a44fdeaab5576cc6c1a0cd89876abfeecf070e43df4ffea7",
-      "size": 458856
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.4/patch_53_windows.pck",
+      "sha256": "15716c3e46293160aa746d029614899d12a1f803bdc8f3ed95257cdb3e984ff3",
+      "size": 457000
     }
   }
 }
