@@ -1,8 +1,8 @@
 {
-  "version": "0.5.2",
-  "code": 47,
+  "version": "0.5.3",
+  "code": 48,
   "base_code": 41,
-  "notes": "Dying no longer resets every bot to town: only you respawn, bots keep hunting. Bots already online appear in their hunting zones when you enter a map.",
+  "notes": "Bots hunting in your zone move elsewhere after a while. About 40% more monsters in every hunting zone.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.2/patch_47_android.pck",
-      "sha256": "41fde7c2ea50d017c110f5c188f2543b5283d98bfa5399d34928cc8b57232fdc",
-      "size": 420884
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.3/patch_48_android.pck",
+      "sha256": "0f7640a700557afd47a351e5387de8cf6c8b59008e196427614aa07d52030d55",
+      "size": 422564
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.2/patch_47_windows.pck",
-      "sha256": "41fde7c2ea50d017c110f5c188f2543b5283d98bfa5399d34928cc8b57232fdc",
-      "size": 420884
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.5.3/patch_48_windows.pck",
+      "sha256": "0f7640a700557afd47a351e5387de8cf6c8b59008e196427614aa07d52030d55",
+      "size": 422564
     }
   }
 }
