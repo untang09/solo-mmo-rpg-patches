@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "code": 51,
+  "version": "0.6.3",
+  "code": 52,
   "base_code": 41,
-  "notes": "The game now restarts by itself after a patch is installed (from the next patch on). This one last time, please reopen the game yourself.",
+  "notes": "Storage NPC opens in town (150 slots, free). Bag holds 60 slots; when full, loot waits on the ground until there is room. The game restarts by itself after this patch installs.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.2/patch_51_android.pck",
-      "sha256": "f1fafd1a99e15f13a3fbf3a7c9b8eb001b989eec8b9d0aeb803047c0f59d7bb6",
-      "size": 452312
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.3/patch_52_android.pck",
+      "sha256": "79cbceea122dcb42a44fdeaab5576cc6c1a0cd89876abfeecf070e43df4ffea7",
+      "size": 458856
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.2/patch_51_windows.pck",
-      "sha256": "f1fafd1a99e15f13a3fbf3a7c9b8eb001b989eec8b9d0aeb803047c0f59d7bb6",
-      "size": 452312
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.3/patch_52_windows.pck",
+      "sha256": "79cbceea122dcb42a44fdeaab5576cc6c1a0cd89876abfeecf070e43df4ffea7",
+      "size": 458856
     }
   }
 }
