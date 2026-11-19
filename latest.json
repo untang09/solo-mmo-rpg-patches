@@ -1,8 +1,8 @@
 {
-  "version": "0.6.4",
-  "code": 53,
+  "version": "0.6.5",
+  "code": 54,
   "base_code": 41,
-  "notes": "DEF from equipment now clearly reduces the damage you take (see Stats). If your combo target dies mid-chain, the rest of the combo jumps to the next enemy nearby.",
+  "notes": "Chasing monsters walks round ponds. Auto-hunt never stops to rest. Restat / Reskill at the Class Trainer. The Blacksmith now upgrades equipment slots with no limit - failures never lower a slot and add luck.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.4/patch_53_android.pck",
-      "sha256": "15716c3e46293160aa746d029614899d12a1f803bdc8f3ed95257cdb3e984ff3",
-      "size": 457000
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.5/patch_54_android.pck",
+      "sha256": "228b0b9aa22d48f2e232122def51b9e9243276cfade7add4d254c66e8aee4583",
+      "size": 465320
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.4/patch_53_windows.pck",
-      "sha256": "15716c3e46293160aa746d029614899d12a1f803bdc8f3ed95257cdb3e984ff3",
-      "size": 457000
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.5/patch_54_windows.pck",
+      "sha256": "228b0b9aa22d48f2e232122def51b9e9243276cfade7add4d254c66e8aee4583",
+      "size": 465320
     }
   }
 }
