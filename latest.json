@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "code": 56,
+  "version": "0.7.1",
+  "code": 57,
   "base_code": 41,
-  "notes": "Bots removed (Rank is now Records). Hits can reach 100% with DEX. Much tougher DEF. Warriors can use any weapon. Clothes no longer sink into the body; fixed two-handed grip. Codex: Gold at 300, new Elite & Boss tab. No drop below 0.1%.",
+  "notes": "Gloamwood Outskirts rebuilt: 7 zones (one monster each, Lv1-27) and the Lv30 boss Briarheart. Maps 2-3 sealed for now. New skill tree: 3 points per level, Novice skills need 30 points before Warrior skills open, many new passives. Your skills are refunded. Fixed a rare combo freeze.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.0/patch_56_android.pck",
-      "sha256": "31d831005e31f4c2c97e29c0f15117ad2fbff66fd54d28696eff0c1cef966cbe",
-      "size": 470004
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.1/patch_57_android.pck",
+      "sha256": "00d46e7ae26d0dd7dd747793b6748cc05b06e1d72753d4091c7ecd856073cbad",
+      "size": 624944
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.0/patch_56_windows.pck",
-      "sha256": "31d831005e31f4c2c97e29c0f15117ad2fbff66fd54d28696eff0c1cef966cbe",
-      "size": 470004
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.1/patch_57_windows.pck",
+      "sha256": "00d46e7ae26d0dd7dd747793b6748cc05b06e1d72753d4091c7ecd856073cbad",
+      "size": 624944
     }
   }
 }
