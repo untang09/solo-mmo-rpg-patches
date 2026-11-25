@@ -1,8 +1,8 @@
 {
-  "version": "0.7.3",
-  "code": 59,
+  "version": "0.7.4",
+  "code": 60,
   "base_code": 41,
-  "notes": "The Skills list no longer jumps to the top when you raise a skill. Double Strike now goes to level 15 (90% chance) and also doubles combo strikes.",
+  "notes": "Warrior job change fixed: Lv10 + 300 gold + 15 Moth Dust (from Pollen Moths in Pollen Meadow, Lv5-7).",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.3/patch_59_android.pck",
-      "sha256": "9f7ff2e4010c4b8561eab952e334ffe2935be2d99e89975bc4cb6a23c0f20a23",
-      "size": 628000
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.4/patch_60_android.pck",
+      "sha256": "93a551a55aac54eb3c8e46f21916faf7cbf4a9c9ef480afa7b9ca3775e8e2798",
+      "size": 628064
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.3/patch_59_windows.pck",
-      "sha256": "9f7ff2e4010c4b8561eab952e334ffe2935be2d99e89975bc4cb6a23c0f20a23",
-      "size": 628000
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.4/patch_60_windows.pck",
+      "sha256": "93a551a55aac54eb3c8e46f21916faf7cbf4a9c9ef480afa7b9ca3775e8e2798",
+      "size": 628064
     }
   }
 }
