@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
-  "code": 57,
+  "version": "0.7.2",
+  "code": 58,
   "base_code": 41,
-  "notes": "Gloamwood Outskirts rebuilt: 7 zones (one monster each, Lv1-27) and the Lv30 boss Briarheart. Maps 2-3 sealed for now. New skill tree: 3 points per level, Novice skills need 30 points before Warrior skills open, many new passives. Your skills are refunded. Fixed a rare combo freeze.",
+  "notes": "One potion now: the Healing Potion restores 50% of max HP; its price grows with your level. Orange and Blue potions are gone (yours become Healing Potions). Potion cooldown is 5 s.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.1/patch_57_android.pck",
-      "sha256": "00d46e7ae26d0dd7dd747793b6748cc05b06e1d72753d4091c7ecd856073cbad",
-      "size": 624944
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.2/patch_58_android.pck",
+      "sha256": "060f9f5d2c0526a705121bce1ab842bd8d7de6c2d76aec5f1296508a761e940b",
+      "size": 626224
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.1/patch_57_windows.pck",
-      "sha256": "00d46e7ae26d0dd7dd747793b6748cc05b06e1d72753d4091c7ecd856073cbad",
-      "size": 624944
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.2/patch_58_windows.pck",
+      "sha256": "060f9f5d2c0526a705121bce1ab842bd8d7de6c2d76aec5f1296508a761e940b",
+      "size": 626224
     }
   }
 }
