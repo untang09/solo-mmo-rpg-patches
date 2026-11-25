@@ -1,8 +1,8 @@
 {
-  "version": "0.6.6",
-  "code": 55,
+  "version": "0.7.0",
+  "code": 56,
   "base_code": 41,
-  "notes": "More rare/epic drops (epic ~1 in 250). EXP x2.5. The level gap no longer lowers drops, only EXP. DEF is much stronger and lower-level monsters hit softer.",
+  "notes": "Bots removed (Rank is now Records). Hits can reach 100% with DEX. Much tougher DEF. Warriors can use any weapon. Clothes no longer sink into the body; fixed two-handed grip. Codex: Gold at 300, new Elite & Boss tab. No drop below 0.1%.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.6/patch_55_android.pck",
-      "sha256": "9b3445fa0c7e0031166650286dd06ea9bb1201f238f64f5cd2a563647cad7d37",
-      "size": 466744
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.0/patch_56_android.pck",
+      "sha256": "31d831005e31f4c2c97e29c0f15117ad2fbff66fd54d28696eff0c1cef966cbe",
+      "size": 470004
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.6.6/patch_55_windows.pck",
-      "sha256": "9b3445fa0c7e0031166650286dd06ea9bb1201f238f64f5cd2a563647cad7d37",
-      "size": 466744
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.0/patch_56_windows.pck",
+      "sha256": "31d831005e31f4c2c97e29c0f15117ad2fbff66fd54d28696eff0c1cef966cbe",
+      "size": 470004
     }
   }
 }
