@@ -1,8 +1,8 @@
 {
-  "version": "0.7.4",
-  "code": 60,
+  "version": "0.8.0",
+  "code": 61,
   "base_code": 41,
-  "notes": "Warrior job change fixed: Lv10 + 300 gold + 15 Moth Dust (from Pollen Moths in Pollen Meadow, Lv5-7).",
+  "notes": "Combo gauge is now a ring on the COMBO button (no bar mid-screen). SP and INT removed (INT points refunded). Maxed gauge skills fill the combo in 2 hits. Skills show current totals. Combos speed up with attack speed. Codex ranks 10/50/100. Slot upgrades: gold only, 80% (50% at +5/+10/+15...).",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.4/patch_60_android.pck",
-      "sha256": "93a551a55aac54eb3c8e46f21916faf7cbf4a9c9ef480afa7b9ca3775e8e2798",
-      "size": 628064
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.8.0/patch_61_android.pck",
+      "sha256": "40671b5b0d9638d57369a65f0d1663b9aae98781a42de69d0a0d1c6a8426c5b1",
+      "size": 631184
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.7.4/patch_60_windows.pck",
-      "sha256": "93a551a55aac54eb3c8e46f21916faf7cbf4a9c9ef480afa7b9ca3775e8e2798",
-      "size": 628064
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.8.0/patch_61_windows.pck",
+      "sha256": "40671b5b0d9638d57369a65f0d1663b9aae98781a42de69d0a0d1c6a8426c5b1",
+      "size": 631184
     }
   }
 }
