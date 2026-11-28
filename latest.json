@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1",
-  "code": 62,
+  "version": "0.8.2",
+  "code": 63,
   "base_code": 41,
-  "notes": "New acrobatic combo moves: every hit of a chain is a different move - leaps, a forward flip, spins and a Meteor slam finisher (Novice has its own 3 moves).",
+  "notes": "Blackroot Forest opens after you defeat Briarheart: 7 new zones (Lv31-57), the Lv60 boss Thornmother, greatsword-only loot. New Hands slot (gauntlets). Waystone fast travel in town and Return Scrolls. Second job: Ravager at Lv30.",
   "app": {
     "android": {
       "code": 41,
@@ -17,14 +17,14 @@
   },
   "patches": {
     "android": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.8.1/patch_62_android.pck",
-      "sha256": "4803b36142ae38134caeaeee2a27e121ea5df39d3aa0d6b31e0da1f7874f5989",
-      "size": 639136
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.8.2/patch_63_android.pck",
+      "sha256": "f514eb489377fac45fd4ed7b2a2ec12c704bf10752c531d3a54a3ba2a722a8f0",
+      "size": 830272
     },
     "windows": {
-      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.8.1/patch_62_windows.pck",
-      "sha256": "4803b36142ae38134caeaeee2a27e121ea5df39d3aa0d6b31e0da1f7874f5989",
-      "size": 639136
+      "url": "https://github.com/untang09/solo-mmo-rpg-patches/releases/download/patch-v0.8.2/patch_63_windows.pck",
+      "sha256": "f514eb489377fac45fd4ed7b2a2ec12c704bf10752c531d3a54a3ba2a722a8f0",
+      "size": 830272
     }
   }
 }
